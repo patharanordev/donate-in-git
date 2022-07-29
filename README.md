@@ -21,8 +21,13 @@ The button in `Donation` like `Markdown` topic but only change the image.
 ```
 
 ## Donation
+
+Methods :
+
+- [Buy me a coffee](https://www.buymeacoffee.com/)
+- [Ko-fi](https://ko-fi.com/)
+
+
 If this project help you reduce time to develop, you can give me a cup of coffee :) 
-- Buy me a coffee : https://www.buymeacoffee.com/
-- Ko-fi : https://ko-fi.com/
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://ko-fi.com/patharanor)
